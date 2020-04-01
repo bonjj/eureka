@@ -1,0 +1,88 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family:
+  line-height: 2;
+  text-align: center;
+  color: #2f3542;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Khula';
+  font-weight: 700;
+  color: #2f3542;
+}
+
+  p {
+    color: #2f3542;
+    text-align: center;
+    font-family: 'Sen';
+      }
+
+/* Nav */
+
+  .container-fluid {
+    padding: 3% 15% 7%;
+  }
+
+  .navbar {
+    padding: 0 0 6.625rem;
+  }
+
+  .navbar-item {
+    padding: 0 18px;
+  }
+
+  .nav-link {
+    font-size: 1.2rem;
+  font-family: 'Sen';
+  }
+
+  /* Title */
+
+  #title {
+    background-color: #f1f2f6;
+  }
+
+  .big-heading {
+    font-family: 'Khula';
+    color: #2f3542;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  .sub-heading {
+    font-family: 'Sen';
+    margin: 5% auto 1%;
+      }
+
+
+  #register {
+  background-image: linear-gradient(#485460, #1e272e);
+  padding-top: 5%;
+  }
+
+.icon {
+  color: #ff4757;
+  margin: 3rem;
+}
+
+.icon:hover {
+  color: #ff6b81;
+}
+
+.icon-up {
+  color: #747d8c;
+}
+
+.icon-up:hover {
+transition: 0.2s;
+  transform: scale(1.1);
+}
+
+.card-body {
+  margin-bottom: 5%;
+}
