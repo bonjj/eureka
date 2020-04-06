@@ -22,17 +22,6 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1rem;
       }
 
-
-      @media (max-width: 2960px) {
-         .big-heading {
-           font-size: 20rem;
-         }
-        p {
-           font-size: 5rem;
-         }
-       }
-
-
 /* Nav */
 
   .container-fluid {
@@ -55,7 +44,6 @@ h1, h2, h3, h4, h5, h6 {
   /* Title */
 
   #title {
-    height: 100vh;
     overflow: auto;
     background-color: #f1f2f6;
   }
