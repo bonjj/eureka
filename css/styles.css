@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
       }
 
 
-      @media (max-width: 768px) {
+      @media (max-width: 2960px) {
          .big-heading {
            font-size: 6rem;
          }
