@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Sen';
     font-size: 1.5rem;
       }
-
+/* MEdia
       @media (max-width: 1440px) {
   h1.big-heading {
     font-size: 10rem;
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 2.5rem;
   }
 
-}
+} */
 
 /* Nav */
 
